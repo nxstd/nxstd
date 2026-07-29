@@ -6,6 +6,8 @@
 ![Languages](https://raw.githubusercontent.com/HIlight3R/github-stats-transparent/refs/heads/output/generated/languages.svg)
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-178%20hrs%2027%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-401.49%20thousand%20lines%20of%20code-blue?style=flat)
@@ -65,5 +67,5 @@ No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 28/07/2026 22:00:52 UTC
+ Last Updated on 29/07/2026 21:58:34 UTC
 <!--END_SECTION:waka-->
